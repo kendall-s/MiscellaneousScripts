@@ -2,6 +2,8 @@
 
 Random scripts that have served their purpose for meanial tasks but are interesting to keep nonetheless
 
+Some scripts below generate plots, I have put the plots in a pdf for viewing [here](https://github.com/kendall-s/MiscellaneousScripts/blob/main/Various_Plots_and_Charts.pdf)
+
 ## Contents:
 
 - AODN_Checker: Used to compare the finalised data in HyLIMS with the data that was been scraped and pulled across into the AODN database. 
