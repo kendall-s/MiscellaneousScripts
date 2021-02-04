@@ -1,5 +1,7 @@
 # MiscellaneousScripts
 
+Random scripts that have served their purpose for meanial tasks but are interesting to keep nonetheless
+
 ## Contents:
 
 - AODN_Checker: Used to compare the finalised data in HyLIMS with the data that was been scraped and pulled across into the AODN database. 
